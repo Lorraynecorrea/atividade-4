@@ -4,7 +4,7 @@ programa {
     
     leia (a, b)
     x = a + b
-    escreva ("X = ", x)
+    escreva ("X = ", x, "\n")
 
     
     
